@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Sito
-### 🛡️ Cybersecurity Analyst | Python Learner
 
-📍 Nigeria
 
 ---
 
@@ -11,6 +9,3 @@
 
 ---
 
-### 📌 Currently Learning
-- Python
-- AWS
